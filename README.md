@@ -12,7 +12,7 @@ It is important to have a high-quality README accompanying your creations. The g
 <br>
 <br>
 
-![](./screenshot.png)
+![](./Assets/screenshot.png)
 
 ## Table of Contents
 #
